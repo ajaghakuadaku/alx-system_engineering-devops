@@ -1,1 +1,2 @@
- Shell Basics Devops
+shell_permissions
+shell_basics shell_redirections
